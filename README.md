@@ -12,5 +12,6 @@
 
 ![1](https://raw.githubusercontent.com/wuhu-pig/peter-/main/3.jpeg)
 
+## 第4步 选取可用的节点
 
 ![1](https://raw.githubusercontent.com/wuhu-pig/peter-/main/4.png)
