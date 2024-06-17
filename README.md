@@ -11,3 +11,8 @@
 ## 第3步 设置 关闭 IPV6 设置 勾选 系统代理
 
 ![a80363cd5f5f8128137808bc2e15f855](https://easy.xinin.top/i/2024/06/17/h3bx02-3.jpeg)
+
+
+![1](https://raw.githubusercontent.com/wuhu-pig/peter-/images/main/4.png)
+
+https://raw.githubusercontent.com/username/myrepo/main/images/example.png
